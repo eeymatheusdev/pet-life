@@ -18,4 +18,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Clima Tempo é um site de previsão do tempo com responsividade
+O PetLife é um site de uma clínica veterinária
