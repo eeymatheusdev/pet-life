@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="PetLife" src=".github/PetLife.png" width="100%">
+  <img alt="PetLife" src=".github/PetLife.PNG" width="100%">
 </p>
 
 ## ✨ Tecnologias
